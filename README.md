@@ -1,6 +1,6 @@
 # Secretaria
 
-Este é um software imcompleto de um sistema de secretaria para escolas publicas ou particular. Foi feito em C# permitindo a
+Este é um software de secretaria para escolas publicas ou particular. Foi feito em C# permitindo a
 execução dele em uma plataforma windows. O banco de dados foi feito em MySQL permitindo uma manuntenção mais rapida, por parte
 do desenvolvedor.
 
